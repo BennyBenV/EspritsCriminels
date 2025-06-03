@@ -1,0 +1,17 @@
+# Java
+/target
+*.class
+*.log
+
+# React
+/frontend/node_modules
+/frontend/build
+
+# Dotenv
+.env
+*.env
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store
