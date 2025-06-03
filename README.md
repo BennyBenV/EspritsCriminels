@@ -36,5 +36,5 @@
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/<votre-username>/EspritsCriminels.git
+git clone https://github.com/BennyBenV/EspritsCriminels.git
 cd EspritsCriminels
